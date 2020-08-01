@@ -33,5 +33,5 @@ Images文件夹下存放作品照片及效果图。
 在串口监视器中显示摇动次数：
 ![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105400.png)
 在AWSIOT上显示摇动次数：
-![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105419.png)
 ![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105422.png)
+![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105419.png)
