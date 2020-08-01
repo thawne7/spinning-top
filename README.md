@@ -28,5 +28,10 @@ Source文件夹下存放项目源代码，其中Gyro_qspi文件夹是包含FPGA�
 Images文件夹下存放作品照片及效果图。
 
 作品照片：
-
+![image](https://github.com/thawne7/spinning-top/blob/master/Images/IMG20200801160327.jpg)
 效果图：
+在串口监视器中显示摇动次数：
+![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105400.png)
+在AWSIOT上显示摇动此时：
+![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105419.png)
+![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105422.png)
