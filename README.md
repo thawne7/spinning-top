@@ -29,3 +29,6 @@ Images文件夹下存放作品照片及效果图。
 #### 在AWS IoT平台上显示摇动次数：
 ![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105422.png)
 ![image](https://github.com/thawne7/spinning-top/blob/master/Images/QQ%E5%9B%BE%E7%89%8720200801105419.png)
+
+### 展示视频：
+见Images文件夹下的展示视频.mp4
